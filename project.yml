@@ -1,0 +1,56 @@
+_prefs: 
+  mapid: james-lane-conkling.84217059
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> , Glacier Data from <a href=\"http://glims.colorado.edu/glacierdata/\">GLIMS Geospatial Glacier Database</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 81.8241
+  - 30.0346
+  - 11
+description: ''
+format: jpeg95
+interactivity_layer: ''
+layers: 
+  - contour.label
+  - glaciers.casing
+  - contour
+  - glaciers
+  - landcover
+  - hillshade
+  - landuse
+  - water.casing
+  - waterway.casing
+  - water.fill
+  - waterway.fill
+  - aeroway
+  - barrier_line
+  - building
+  - landuse_overlay
+  - tunnel
+  - road
+  - bridge
+  - admin
+  - country_label_line
+  - country_label
+  - state_label
+  - place_label
+  - water_label
+  - road_label
+  - waterway_label
+  - glaciers-labels-point
+maxzoom: 14
+minzoom: 5
+name: Imhof
+source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v5,crowdcover.ca88ec1f"
+styles: 
+  - style.mss
+  - labels.mss
+  - terrain.mss
+template: ''
